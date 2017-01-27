@@ -10,4 +10,5 @@ Simple website for testing
 
 Sample website with plenty of files for demos
 ## Deployment
+sample deployment notes
 ## How to contribute
