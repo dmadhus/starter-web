@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub
 
 ## Introduction
 
-Simple website for testing
+The intro is the best i can find in many years
 
 ## Purpose
 
