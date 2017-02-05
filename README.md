@@ -14,3 +14,7 @@ sample deployment notes
 ## How to contribute
 
 contribute
+
+## Copyright
+
+2016 Madhuu Inc
