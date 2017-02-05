@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub
 
 ## Introduction
 
-The intro is the best i can find in many years
+The intro is the best i can find in many years. try to find if this is how rebasing helps.
 
 ## Purpose
 
