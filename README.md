@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 sample deployment notes
 ## How to contribute
 
-contribute
+to contribute to this project git is prerequisite
 
 ## Copyright
 
